@@ -36,10 +36,10 @@ bases pour concevoir un tableau de bord interactif accessible aux dirigeants.
 
 ## Livrables
 
-- 📊 Fichier Power BI (.pbix) : `[à ajouter]`
-- 📄 Rapport de recommandations : `[à ajouter]`
+- 📄 [Rapport d'analyse](https://github.com/Bassecou/P9-dashboard-performances-bi/blob/main/Toure_Bassecou_1_rapport_052026..pdf)
+- 📊 [Tableau de bord Power BI (.pbix)](https://github.com/Bassecou/P9-dashboard-performances-bi/blob/main/Toure_Bassecou_2_tableau_052026..pbix)
 
 ## Auteur
 
-**Bassecou Touré** · Data Analyst · Data ESN  
+**Bassecou Toure** · Data Analyst · Data ESN  
 [LinkedIn](https://www.linkedin.com/in/bassecou-toure) · [Portfolio](https://github.com/Bassecou)
