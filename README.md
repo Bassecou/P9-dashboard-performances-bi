@@ -41,5 +41,4 @@ bases pour concevoir un tableau de bord interactif accessible aux dirigeants.
 
 ## Auteur
 
-**Bassecou Toure** · Data Analyst · Data ESN  
-[LinkedIn](https://www.linkedin.com/in/bassecou-toure) · [Portfolio](https://github.com/Bassecou)
+**Bassecou Toure** · Data Analyst · Data ESN  **[Découvrir mon portfolio](https://bassecou.github.io/portfolio/)**
